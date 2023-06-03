@@ -2,7 +2,6 @@
 ![Stars](https://img.shields.io/badge/stars-0-yellow)
 
 
-
 ![Logo](https://github.com/Kshitij0O7/HackathonReadme/assets/91107953/b7519547-42b7-4dde-8acd-89d2f6f60832)
 # DevRewards
 
