@@ -1,6 +1,6 @@
 ![Forks](https://img.shields.io/badge/forks-0-blue)
 ![Stars](https://img.shields.io/badge/stars-0-yellow)
-# DevEarnz
+# DevRewards
 ## Introduction
 Here, we present an innovative web3 application designed to revolutionize the way open source contributions are recognized and rewarded. Our platform seamlessly integrates with users' GitHub profiles, leveraging webhooks and a robust smart contract to incentivize and acknowledge valuable contributions made to repositories listed on our platform.
 
