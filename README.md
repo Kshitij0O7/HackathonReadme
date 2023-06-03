@@ -8,5 +8,5 @@ Open source software development thrives on collaboration, and we firmly believe
 
 Our application provides a simple and secure way for users to connect their GitHub profiles, granting access to their webhooks. By monitoring users' repositories and tracking their contributions, we gather valuable data that enables us to accurately assess the impact of their work. Leveraging the power of our smart contract, we can then allocate rewards based on predefined criteria, ensuring fairness and transparency in the process.
 
-##UI-UX
+## UI-UX
 Here is the Live Link(do checkout)👉 **https://devrewards.vercel.app/**
