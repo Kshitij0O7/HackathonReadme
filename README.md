@@ -27,6 +27,7 @@ Video 👉 youtube Video
 
 ## Architecture
 
+![App Screenshot](https://github.com/Kshitij0O7/HackathonReadme/assets/91107953/45997575-2dce-446e-9e24-ab1931f57dc8)
 
 ## Tech Stack
 
@@ -54,17 +55,6 @@ For the best experience we recomend having
 - Logs that would reflect your github activity
 
 
-## Authors
-
-- [@rushikesh](https://github.com/rushi3691)
-- [@kshitij](https://www.github.com/Kshitij0O7)
-
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
-
 
 ## Screenshots
 
@@ -80,10 +70,17 @@ For the best experience we recomend having
 - ![App Screenshot](https://github.com/Kshitij0O7/HackathonReadme/assets/91107953/bcd30268-5c2f-4253-af0d-a2f91cf30f76) 
 
 
+## Documentation
+
+[Documentation](https://linktodocumentation)
 
 
 
 
+## Authors
+
+- [@rushikesh](https://github.com/rushi3691)
+- [@kshitij](https://www.github.com/Kshitij0O7)
 
 
 
