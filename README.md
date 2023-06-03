@@ -1,1 +1,1 @@
-# HackathonReadme
+# Welcome to DevEarnz
